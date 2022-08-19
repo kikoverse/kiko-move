@@ -1,4 +1,4 @@
-address 0x69F1E543A3BeF043B63BEd825fcd2cf6 {
+address 0x8355417C88d969F656935244641256aD {
 module PublicNFTV1_1 {
     use 0x1::Vector;
     use 0x1::Signer;
@@ -6,7 +6,7 @@ module PublicNFTV1_1 {
     use 0x1::NFT;
     use 0x1::NFTGallery;
 
-    const SELF_ADDRESS: address = @0x69F1E543A3BeF043B63BEd825fcd2cf6;
+    const SELF_ADDRESS: address = @0x8355417C88d969F656935244641256aD;
 
     const PERMISSION_DENIED: u64 = 100001;
 
